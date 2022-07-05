@@ -1,7 +1,3 @@
-######### README ARX #########
-# JAN 29 2012
-# Murtada al Mousawy
-
 ARX (Augmented Reality XMedia) is an open-source Augmented Reality App for the Android phone.
 This is a school project.
 
